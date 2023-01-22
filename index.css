@@ -1,0 +1,80 @@
+body{
+
+font-style: italic;
+font-family: cursive;
+margin: 0px;
+
+}
+
+h1{
+
+    width: max-content;
+    margin: auto;
+
+}
+
+textarea{
+
+    padding: 5px;
+    color: rgb(111, 177, 111);
+   
+}
+
+.header{
+
+    padding: 1.3rem 0rem;
+    background-color: rgb(111, 177, 111);
+
+}
+
+.input-output-main-container{
+
+    width: max-content;
+    margin: auto;
+    margin-top: 70px;
+    display: flex;
+
+}
+
+#translate-button{
+
+    margin: 2px 10px;
+    background-color:  rgb(111, 177, 111);
+    padding: 5px;
+    border-radius: 2px;
+    border: none;
+
+}
+
+
+.footer{
+
+    height: 10.9rem;
+    background-color:  rgb(111, 177, 111);
+    margin-top: 235px;
+
+}
+
+.footer-heading{
+
+    font-size: 2rem ;
+    font-family: cursive;
+    font-style: italic;
+    width: max-content;
+    margin: auto;
+    padding-top: 10px;
+
+}
+
+.footer-text{
+
+    width: 600px;
+    text-align: justify;
+    font-family: cursive;
+    font-style: italic;
+    margin: auto;
+    margin-top: 10px;
+    line-height: 30px;
+
+}
+
