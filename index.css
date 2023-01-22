@@ -18,6 +18,9 @@ textarea{
     padding: 5px;
     color: rgb(111, 177, 111);
     height: 160px;
+    font-size: 16px;
+    font-style: italic;
+    font-family: cursive;
 }
 
 .header{
@@ -43,6 +46,8 @@ textarea{
     padding: 20px;
     border-radius: 2px;
     border: none;
+    font-style: italic;
+    font-family: cursive;
 
 }
 
